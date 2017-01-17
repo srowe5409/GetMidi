@@ -7,14 +7,94 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4335EEFC1E2B73020075BCA5 /* 27 Piano Keys Kit 92.exs in Resources */ = {isa = PBXBuildFile; fileRef = 4335EEFB1E2B73020075BCA5 /* 27 Piano Keys Kit 92.exs */; };
+		433F40C81E2A9B7400894B45 /* 9000g.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433F40C71E2A9B7400894B45 /* 9000g.wav */; };
+		433F40D31E2AE2A200894B45 /* ALLRIGHT.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433F40D21E2AE2A200894B45 /* ALLRIGHT.wav */; };
+		433F40DB1E2AF32200894B45 /* vox.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40DA1E2AF32200894B45 /* vox.sf2 */; };
+		433F40DE1E2B012C00894B45 /* pads.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40DD1E2B012C00894B45 /* pads.sf2 */; };
+		433F40E01E2B031000894B45 /* electronic.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40DF1E2B031000894B45 /* electronic.sf2 */; };
+		433F41011E2B055700894B45 /* JR__pad.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E11E2B055700894B45 /* JR__pad.sf2 */; };
+		433F41021E2B055700894B45 /* JR_ambiance 1.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E21E2B055700894B45 /* JR_ambiance 1.sf2 */; };
+		433F41031E2B055700894B45 /* JR_analog.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E31E2B055700894B45 /* JR_analog.sf2 */; };
+		433F41041E2B055700894B45 /* JR_backgr.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E41E2B055700894B45 /* JR_backgr.sf2 */; };
+		433F41051E2B055700894B45 /* JR_bells.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E51E2B055700894B45 /* JR_bells.sf2 */; };
+		433F41061E2B055700894B45 /* JR_Bignoise.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E61E2B055700894B45 /* JR_Bignoise.sf2 */; };
+		433F41071E2B055700894B45 /* JR_bulles2.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E71E2B055700894B45 /* JR_bulles2.sf2 */; };
+		433F41081E2B055700894B45 /* JR_church.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E81E2B055700894B45 /* JR_church.sf2 */; };
+		433F41091E2B055700894B45 /* JR_Cosmic.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40E91E2B055700894B45 /* JR_Cosmic.sf2 */; };
+		433F410A1E2B055700894B45 /* JR_effect2k.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40EA1E2B055700894B45 /* JR_effect2k.sf2 */; };
+		433F410B1E2B055700894B45 /* JR_effects2.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40EB1E2B055700894B45 /* JR_effects2.sf2 */; };
+		433F410C1E2B055700894B45 /* JR_elepiano.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40EC1E2B055700894B45 /* JR_elepiano.sf2 */; };
+		433F410D1E2B055700894B45 /* JR_Ethnic trumpets.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40ED1E2B055700894B45 /* JR_Ethnic trumpets.sf2 */; };
+		433F410E1E2B055700894B45 /* JR_Ethnic voice.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40EE1E2B055700894B45 /* JR_Ethnic voice.sf2 */; };
+		433F410F1E2B055700894B45 /* JR_flute electronique.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40EF1E2B055700894B45 /* JR_flute electronique.sf2 */; };
+		433F41101E2B055700894B45 /* JR_galboro.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F01E2B055700894B45 /* JR_galboro.sf2 */; };
+		433F41111E2B055700894B45 /* JR_ligeti.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F11E2B055700894B45 /* JR_ligeti.sf2 */; };
+		433F41121E2B055700894B45 /* JR_loops2k.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F21E2B055700894B45 /* JR_loops2k.sf2 */; };
+		433F41131E2B055700894B45 /* JR_male.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F31E2B055700894B45 /* JR_male.sf2 */; };
+		433F41141E2B055700894B45 /* JR_mood.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F41E2B055700894B45 /* JR_mood.sf2 */; };
+		433F41151E2B055700894B45 /* JR_noises2.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F51E2B055700894B45 /* JR_noises2.sf2 */; };
+		433F41161E2B055700894B45 /* JR_organ.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F61E2B055700894B45 /* JR_organ.sf2 */; };
+		433F41171E2B055700894B45 /* JR_pad_cloches.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F71E2B055700894B45 /* JR_pad_cloches.sf2 */; };
+		433F41181E2B055700894B45 /* JR_pad_voice.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F81E2B055700894B45 /* JR_pad_voice.sf2 */; };
+		433F41191E2B055700894B45 /* JR_PADstring.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40F91E2B055700894B45 /* JR_PADstring.sf2 */; };
+		433F411A1E2B055700894B45 /* JR_popol.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40FA1E2B055700894B45 /* JR_popol.sf2 */; };
+		433F411B1E2B055700894B45 /* JR_sax.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40FB1E2B055700894B45 /* JR_sax.sf2 */; };
+		433F411C1E2B055700894B45 /* JR_String2.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40FC1E2B055700894B45 /* JR_String2.sf2 */; };
+		433F411D1E2B055700894B45 /* JR_SynthString1.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40FD1E2B055700894B45 /* JR_SynthString1.sf2 */; };
+		433F411E1E2B055700894B45 /* JR_SynthString2.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40FE1E2B055700894B45 /* JR_SynthString2.sf2 */; };
+		433F411F1E2B055700894B45 /* JR_vibra.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F40FF1E2B055700894B45 /* JR_vibra.sf2 */; };
+		433F41201E2B055700894B45 /* JR_voice2.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = 433F41001E2B055700894B45 /* JR_voice2.sf2 */; };
 		434520611E295BE70068113E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434520601E295BE70068113E /* AppDelegate.swift */; };
 		434520631E295BE70068113E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434520621E295BE70068113E /* ViewController.swift */; };
 		434520661E295BE70068113E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 434520641E295BE70068113E /* Main.storyboard */; };
 		434520681E295BE80068113E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 434520671E295BE80068113E /* Assets.xcassets */; };
 		4345206B1E295BE80068113E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 434520691E295BE80068113E /* LaunchScreen.storyboard */; };
+		434520741E2962EF0068113E /* CoreMIDI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 434520731E2962EF0068113E /* CoreMIDI.framework */; };
+		9BE360D6AB68D86C0F18406F /* Pods_GetMidi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E7F5D394658DD9E2F69B12A /* Pods_GetMidi.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0E7F5D394658DD9E2F69B12A /* Pods_GetMidi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GetMidi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4315E9991E2C63B200D35828 /* GetMidi.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GetMidi.entitlements; sourceTree = "<group>"; };
+		4335EEFB1E2B73020075BCA5 /* 27 Piano Keys Kit 92.exs */ = {isa = PBXFileReference; lastKnownFileType = file; path = "27 Piano Keys Kit 92.exs"; sourceTree = "<group>"; };
+		433F40C71E2A9B7400894B45 /* 9000g.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = 9000g.wav; path = ../../Downloads/git/wxWidgets/buildmywx/samples/sound/9000g.wav; sourceTree = "<group>"; };
+		433F40D21E2AE2A200894B45 /* ALLRIGHT.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ALLRIGHT.wav; sourceTree = "<group>"; };
+		433F40DA1E2AF32200894B45 /* vox.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = vox.sf2; sourceTree = "<group>"; };
+		433F40DD1E2B012C00894B45 /* pads.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = pads.sf2; sourceTree = "<group>"; };
+		433F40DF1E2B031000894B45 /* electronic.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = electronic.sf2; sourceTree = "<group>"; };
+		433F40E11E2B055700894B45 /* JR__pad.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR__pad.sf2; sourceTree = "<group>"; };
+		433F40E21E2B055700894B45 /* JR_ambiance 1.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR_ambiance 1.sf2"; sourceTree = "<group>"; };
+		433F40E31E2B055700894B45 /* JR_analog.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_analog.sf2; sourceTree = "<group>"; };
+		433F40E41E2B055700894B45 /* JR_backgr.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_backgr.sf2; sourceTree = "<group>"; };
+		433F40E51E2B055700894B45 /* JR_bells.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_bells.sf2; sourceTree = "<group>"; };
+		433F40E61E2B055700894B45 /* JR_Bignoise.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_Bignoise.sf2; sourceTree = "<group>"; };
+		433F40E71E2B055700894B45 /* JR_bulles2.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_bulles2.sf2; sourceTree = "<group>"; };
+		433F40E81E2B055700894B45 /* JR_church.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_church.sf2; sourceTree = "<group>"; };
+		433F40E91E2B055700894B45 /* JR_Cosmic.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_Cosmic.sf2; sourceTree = "<group>"; };
+		433F40EA1E2B055700894B45 /* JR_effect2k.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_effect2k.sf2; sourceTree = "<group>"; };
+		433F40EB1E2B055700894B45 /* JR_effects2.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_effects2.sf2; sourceTree = "<group>"; };
+		433F40EC1E2B055700894B45 /* JR_elepiano.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_elepiano.sf2; sourceTree = "<group>"; };
+		433F40ED1E2B055700894B45 /* JR_Ethnic trumpets.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR_Ethnic trumpets.sf2"; sourceTree = "<group>"; };
+		433F40EE1E2B055700894B45 /* JR_Ethnic voice.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR_Ethnic voice.sf2"; sourceTree = "<group>"; };
+		433F40EF1E2B055700894B45 /* JR_flute electronique.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR_flute electronique.sf2"; sourceTree = "<group>"; };
+		433F40F01E2B055700894B45 /* JR_galboro.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_galboro.sf2; sourceTree = "<group>"; };
+		433F40F11E2B055700894B45 /* JR_ligeti.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_ligeti.sf2; sourceTree = "<group>"; };
+		433F40F21E2B055700894B45 /* JR_loops2k.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_loops2k.sf2; sourceTree = "<group>"; };
+		433F40F31E2B055700894B45 /* JR_male.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_male.sf2; sourceTree = "<group>"; };
+		433F40F41E2B055700894B45 /* JR_mood.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_mood.sf2; sourceTree = "<group>"; };
+		433F40F51E2B055700894B45 /* JR_noises2.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_noises2.sf2; sourceTree = "<group>"; };
+		433F40F61E2B055700894B45 /* JR_organ.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_organ.sf2; sourceTree = "<group>"; };
+		433F40F71E2B055700894B45 /* JR_pad_cloches.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_pad_cloches.sf2; sourceTree = "<group>"; };
+		433F40F81E2B055700894B45 /* JR_pad_voice.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_pad_voice.sf2; sourceTree = "<group>"; };
+		433F40F91E2B055700894B45 /* JR_PADstring.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_PADstring.sf2; sourceTree = "<group>"; };
+		433F40FA1E2B055700894B45 /* JR_popol.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_popol.sf2; sourceTree = "<group>"; };
+		433F40FB1E2B055700894B45 /* JR_sax.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_sax.sf2; sourceTree = "<group>"; };
+		433F40FC1E2B055700894B45 /* JR_String2.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_String2.sf2; sourceTree = "<group>"; };
+		433F40FD1E2B055700894B45 /* JR_SynthString1.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_SynthString1.sf2; sourceTree = "<group>"; };
+		433F40FE1E2B055700894B45 /* JR_SynthString2.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_SynthString2.sf2; sourceTree = "<group>"; };
+		433F40FF1E2B055700894B45 /* JR_vibra.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_vibra.sf2; sourceTree = "<group>"; };
+		433F41001E2B055700894B45 /* JR_voice2.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = JR_voice2.sf2; sourceTree = "<group>"; };
 		4345205D1E295BE70068113E /* GetMidi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GetMidi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		434520601E295BE70068113E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		434520621E295BE70068113E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +102,9 @@
 		434520671E295BE80068113E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4345206A1E295BE80068113E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4345206C1E295BE80068113E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		434520731E2962EF0068113E /* CoreMIDI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMIDI.framework; path = System/Library/Frameworks/CoreMIDI.framework; sourceTree = SDKROOT; };
+		50A20D3C78F30E4A507D821B /* Pods-GetMidi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GetMidi.release.xcconfig"; path = "Pods/Target Support Files/Pods-GetMidi/Pods-GetMidi.release.xcconfig"; sourceTree = "<group>"; };
+		AF0CF1E1E5F3A2777926152F /* Pods-GetMidi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GetMidi.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GetMidi/Pods-GetMidi.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +112,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				434520741E2962EF0068113E /* CoreMIDI.framework in Frameworks */,
+				9BE360D6AB68D86C0F18406F /* Pods_GetMidi.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +125,8 @@
 			children = (
 				4345205F1E295BE70068113E /* GetMidi */,
 				4345205E1E295BE70068113E /* Products */,
+				434520721E2962EF0068113E /* Frameworks */,
+				D128B9B4C02045422525A8D2 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +141,71 @@
 		4345205F1E295BE70068113E /* GetMidi */ = {
 			isa = PBXGroup;
 			children = (
+				4315E9991E2C63B200D35828 /* GetMidi.entitlements */,
+				433F40D21E2AE2A200894B45 /* ALLRIGHT.wav */,
+				433F40DF1E2B031000894B45 /* electronic.sf2 */,
+				433F40DA1E2AF32200894B45 /* vox.sf2 */,
 				434520601E295BE70068113E /* AppDelegate.swift */,
 				434520621E295BE70068113E /* ViewController.swift */,
 				434520641E295BE70068113E /* Main.storyboard */,
+				4335EEFB1E2B73020075BCA5 /* 27 Piano Keys Kit 92.exs */,
+				433F40E11E2B055700894B45 /* JR__pad.sf2 */,
+				433F40E21E2B055700894B45 /* JR_ambiance 1.sf2 */,
+				433F40E31E2B055700894B45 /* JR_analog.sf2 */,
+				433F40E41E2B055700894B45 /* JR_backgr.sf2 */,
+				433F40E51E2B055700894B45 /* JR_bells.sf2 */,
+				433F40E61E2B055700894B45 /* JR_Bignoise.sf2 */,
+				433F40E71E2B055700894B45 /* JR_bulles2.sf2 */,
+				433F40E81E2B055700894B45 /* JR_church.sf2 */,
+				433F40E91E2B055700894B45 /* JR_Cosmic.sf2 */,
+				433F40EA1E2B055700894B45 /* JR_effect2k.sf2 */,
+				433F40EB1E2B055700894B45 /* JR_effects2.sf2 */,
+				433F40EC1E2B055700894B45 /* JR_elepiano.sf2 */,
+				433F40ED1E2B055700894B45 /* JR_Ethnic trumpets.sf2 */,
+				433F40EE1E2B055700894B45 /* JR_Ethnic voice.sf2 */,
+				433F40EF1E2B055700894B45 /* JR_flute electronique.sf2 */,
+				433F40F01E2B055700894B45 /* JR_galboro.sf2 */,
+				433F40F11E2B055700894B45 /* JR_ligeti.sf2 */,
+				433F40F21E2B055700894B45 /* JR_loops2k.sf2 */,
+				433F40F31E2B055700894B45 /* JR_male.sf2 */,
+				433F40F41E2B055700894B45 /* JR_mood.sf2 */,
+				433F40F51E2B055700894B45 /* JR_noises2.sf2 */,
+				433F40F61E2B055700894B45 /* JR_organ.sf2 */,
+				433F40F71E2B055700894B45 /* JR_pad_cloches.sf2 */,
+				433F40F81E2B055700894B45 /* JR_pad_voice.sf2 */,
+				433F40F91E2B055700894B45 /* JR_PADstring.sf2 */,
+				433F40FA1E2B055700894B45 /* JR_popol.sf2 */,
+				433F40FB1E2B055700894B45 /* JR_sax.sf2 */,
+				433F40FC1E2B055700894B45 /* JR_String2.sf2 */,
+				433F40FD1E2B055700894B45 /* JR_SynthString1.sf2 */,
+				433F40FE1E2B055700894B45 /* JR_SynthString2.sf2 */,
+				433F40FF1E2B055700894B45 /* JR_vibra.sf2 */,
+				433F41001E2B055700894B45 /* JR_voice2.sf2 */,
+				433F40DD1E2B012C00894B45 /* pads.sf2 */,
+				433F40C71E2A9B7400894B45 /* 9000g.wav */,
 				434520671E295BE80068113E /* Assets.xcassets */,
 				434520691E295BE80068113E /* LaunchScreen.storyboard */,
 				4345206C1E295BE80068113E /* Info.plist */,
 			);
 			path = GetMidi;
+			sourceTree = "<group>";
+		};
+		434520721E2962EF0068113E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				434520731E2962EF0068113E /* CoreMIDI.framework */,
+				0E7F5D394658DD9E2F69B12A /* Pods_GetMidi.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D128B9B4C02045422525A8D2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AF0CF1E1E5F3A2777926152F /* Pods-GetMidi.debug.xcconfig */,
+				50A20D3C78F30E4A507D821B /* Pods-GetMidi.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +215,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4345206F1E295BE80068113E /* Build configuration list for PBXNativeTarget "GetMidi" */;
 			buildPhases = (
+				3DC3541EE0D4CBD92DB84BF3 /* [CP] Check Pods Manifest.lock */,
 				434520591E295BE70068113E /* Sources */,
 				4345205A1E295BE70068113E /* Frameworks */,
 				4345205B1E295BE70068113E /* Resources */,
+				B9A9FD3BAE6B9AC7952197BE /* [CP] Embed Pods Frameworks */,
+				DD6D52D6375323400C291087 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -98,6 +245,14 @@
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = ZVQ5GS956C;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.InterAppAudio = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -124,13 +279,99 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				433F41101E2B055700894B45 /* JR_galboro.sf2 in Resources */,
+				433F410C1E2B055700894B45 /* JR_elepiano.sf2 in Resources */,
+				433F411B1E2B055700894B45 /* JR_sax.sf2 in Resources */,
 				4345206B1E295BE80068113E /* LaunchScreen.storyboard in Resources */,
+				433F41051E2B055700894B45 /* JR_bells.sf2 in Resources */,
+				433F40D31E2AE2A200894B45 /* ALLRIGHT.wav in Resources */,
+				4335EEFC1E2B73020075BCA5 /* 27 Piano Keys Kit 92.exs in Resources */,
+				433F41021E2B055700894B45 /* JR_ambiance 1.sf2 in Resources */,
+				433F41131E2B055700894B45 /* JR_male.sf2 in Resources */,
+				433F41161E2B055700894B45 /* JR_organ.sf2 in Resources */,
+				433F41201E2B055700894B45 /* JR_voice2.sf2 in Resources */,
+				433F41041E2B055700894B45 /* JR_backgr.sf2 in Resources */,
+				433F40C81E2A9B7400894B45 /* 9000g.wav in Resources */,
+				433F40DB1E2AF32200894B45 /* vox.sf2 in Resources */,
+				433F410E1E2B055700894B45 /* JR_Ethnic voice.sf2 in Resources */,
+				433F41191E2B055700894B45 /* JR_PADstring.sf2 in Resources */,
 				434520681E295BE80068113E /* Assets.xcassets in Resources */,
 				434520661E295BE70068113E /* Main.storyboard in Resources */,
+				433F41181E2B055700894B45 /* JR_pad_voice.sf2 in Resources */,
+				433F411F1E2B055700894B45 /* JR_vibra.sf2 in Resources */,
+				433F40DE1E2B012C00894B45 /* pads.sf2 in Resources */,
+				433F41171E2B055700894B45 /* JR_pad_cloches.sf2 in Resources */,
+				433F410F1E2B055700894B45 /* JR_flute electronique.sf2 in Resources */,
+				433F41091E2B055700894B45 /* JR_Cosmic.sf2 in Resources */,
+				433F411A1E2B055700894B45 /* JR_popol.sf2 in Resources */,
+				433F41111E2B055700894B45 /* JR_ligeti.sf2 in Resources */,
+				433F411C1E2B055700894B45 /* JR_String2.sf2 in Resources */,
+				433F40E01E2B031000894B45 /* electronic.sf2 in Resources */,
+				433F41071E2B055700894B45 /* JR_bulles2.sf2 in Resources */,
+				433F410A1E2B055700894B45 /* JR_effect2k.sf2 in Resources */,
+				433F410D1E2B055700894B45 /* JR_Ethnic trumpets.sf2 in Resources */,
+				433F411E1E2B055700894B45 /* JR_SynthString2.sf2 in Resources */,
+				433F410B1E2B055700894B45 /* JR_effects2.sf2 in Resources */,
+				433F411D1E2B055700894B45 /* JR_SynthString1.sf2 in Resources */,
+				433F41141E2B055700894B45 /* JR_mood.sf2 in Resources */,
+				433F41061E2B055700894B45 /* JR_Bignoise.sf2 in Resources */,
+				433F41031E2B055700894B45 /* JR_analog.sf2 in Resources */,
+				433F41151E2B055700894B45 /* JR_noises2.sf2 in Resources */,
+				433F41081E2B055700894B45 /* JR_church.sf2 in Resources */,
+				433F41121E2B055700894B45 /* JR_loops2k.sf2 in Resources */,
+				433F41011E2B055700894B45 /* JR__pad.sf2 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3DC3541EE0D4CBD92DB84BF3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B9A9FD3BAE6B9AC7952197BE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GetMidi/Pods-GetMidi-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DD6D52D6375323400C291087 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GetMidi/Pods-GetMidi-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		434520591E295BE70068113E /* Sources */ = {
@@ -259,6 +500,7 @@
 		};
 		434520701E295BE80068113E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AF0CF1E1E5F3A2777926152F /* Pods-GetMidi.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ZVQ5GS956C;
@@ -267,11 +509,13 @@
 				PRODUCT_BUNDLE_IDENTIFIER = srowe5409.GetMidi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		434520711E295BE80068113E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50A20D3C78F30E4A507D821B /* Pods-GetMidi.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ZVQ5GS956C;
@@ -280,6 +524,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = srowe5409.GetMidi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -302,6 +547,7 @@
 				434520711E295BE80068113E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
